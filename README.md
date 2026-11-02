@@ -13,6 +13,26 @@ Aplikasi desktop sederhana untuk menghitung Indeks Massa Tubuh yang dibangun men
 * **SceneBuilder**
 
 ## Demo aplikasi
+
+1. Buka Aplikasi
+* Jalankan aplikasi Kalkulator BMI di perangkat Anda (PC/Laptop atau Smartphone).
+
+2. Masukkan Berat Badan
+
+* Ketikkan berat badan Anda saat ini pada kolom Berat Badan.
+
+* Satuan: Gunakan satuan Kilogram (kg).
+
+3. Masukkan Tinggi Badan
+
+* Ketikkan tinggi badan Anda pada kolom Tinggi Badan.
+
+* Satuan: Gunakan satuan Sentimeter (cm).
+
+4. Tekan Tombol Hitung
+
+5. Lihat Hasil Perhitungan
+
 <img width="590" height="776" alt="Screenshot 2026-11-02 073918" src="https://github.com/user-attachments/assets/24c462cd-cdc6-4bdd-afd2-2db2d68d622d" />
 
 
