@@ -1,13 +1,13 @@
-# KALKULATOR MBI (JAVAFX)
-Apklikasi destop sederhana untuk menghitung indeks masa tubuh yang dibuat menggunakan apache NetBeans (JavaFX) dan sceneBuilder
+#Kalkulator BMI - JavaFX
 
-Fitur
+Aplikasi desktop sederhana untuk menghitung Indeks Massa Tubuh yang dibangun menggunakan **apache NetBeans (JavaFX)**, dan **sceneBuilder**.
+
+## 🚀 Fitur
 * Input Berat Badan (kg) dan Tinggi Badan (cm)
 * Perhitungan nilai BMI otomatis
 * Penentuan kategori status gizi (Kurus, Normal, Overweight, Obesitas)
 * Handling error jika input bukan berupa angka
 
-
-Aplikasi yang digunakak
-*apache NetBeans (JavaFX)
-*sceneBuilder
+## 🛠️ Teknologi yang Digunakan
+* **apache NetBeans (JavaFX)**
+* **SceneBuilder**
