@@ -13,6 +13,7 @@ Aplikasi desktop sederhana untuk menghitung Indeks Massa Tubuh yang dibangun men
 * **SceneBuilder**
 
 ## Demo aplikasi
-<img width="793" height="262" alt="image" src="https://github.com/user-attachments/assets/cd512ca6-c152-4fc3-8831-ea2d9cb54e41" />
+<img width="590" height="776" alt="Screenshot 2026-11-02 073918" src="https://github.com/user-attachments/assets/24c462cd-cdc6-4bdd-afd2-2db2d68d622d" />
+
 
 
