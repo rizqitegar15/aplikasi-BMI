@@ -15,7 +15,7 @@ Aplikasi desktop sederhana untuk menghitung Indeks Massa Tubuh yang dibangun men
 ## Demo aplikasi
 
 1. Buka Aplikasi
-* Jalankan aplikasi Kalkulator BMI di perangkat Anda (PC/Laptop atau Smartphone).
+* Jalankan aplikasi Kalkulator BMI di perangkat Anda.
 
 2. Masukkan Berat Badan
 
